@@ -1,0 +1,5 @@
+replicate
+customtkinter
+tkinter
+pillow
+urllib.request
